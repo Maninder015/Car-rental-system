@@ -1,0 +1,7 @@
+Specifications:
+
+fuel type: Diesel
+Engine : 1493 cc
+max power : 113.45bhp@4000rpm
+seating capcity : 5
+milage : 18.5 kmpl

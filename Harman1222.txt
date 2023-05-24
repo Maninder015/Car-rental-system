@@ -1,0 +1,1 @@
+Car Company				Car Model			  Year					 Car Number				 Number of days			   Rental fee

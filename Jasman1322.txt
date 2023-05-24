@@ -1,0 +1,2 @@
+Car Company				Car Model			  Year					 Car Number				 Number of days			   Rental fee
+A				         C				      2022				      0000				       175 days			       Rs.262500

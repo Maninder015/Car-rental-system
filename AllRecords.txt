@@ -1,0 +1,13 @@
+Username            Car Company				Car Model                 Year				   Car Number				 Number of days		       Rental fee
+Moninder12		         C				         A				      2009				      2332				        45 days			       Rs.40500
+Harsimran17		         D				         C				      2019				      1771				       120 days			       Rs.32400
+Hitesh18		         A				         B				      2007				      1001				        51 days			       Rs.132600
+Moninder12		         B				         C				      2013				      1002				        49 days			       Rs.30870
+Mohit		         A				         A				      2022				      0001				       603 days			       Rs.1356750
+IshanGupta		         C				         A				      2016				      0001				         7 days			       Rs.7560
+Jasman1322		         A				         C				      2022				      0000				       175 days			       Rs.262500
+Muskaanmoti		         B				         B				      2012				      0006				       365 days			       Rs.189800
+Moninder12		         B				         A				      2017				      0009				        50 days			       Rs.50000
+Aditya12		         B				         A				      2022				      0001				        51 days			       Rs.45900
+Bhavya123		         A				         B				      2016				      1002				        51 days			       Rs.163200
+mani		         C				         B				      2016				      5672				        45 days			       Rs.56700

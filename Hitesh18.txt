@@ -1,0 +1,2 @@
+Car Company				Car Model			  Year					 Car Number				 Number of days			   Rental fee
+A				         B				      2007				      1001				        51 days			       Rs.132600

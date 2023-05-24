@@ -1,0 +1,7 @@
+Specifications:
+
+fuel type: Diesel
+Engine : 1997 cc
+max power : 140bhp@3750rpm
+seating capcity : 7
+milage : 16.0 kmpl

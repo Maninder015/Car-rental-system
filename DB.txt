@@ -1,0 +1,7 @@
+Specifications:
+
+fuel type: Petrol
+Engine : 1197 cc
+max power : 88.50bhp@6000rpm
+seating capcity : 5
+milage : 22.94 kmpl

@@ -1,0 +1,2 @@
+Car Company				Car Model			  Year					 Car Number				 Number of days			   Rental fee
+D				         C				      2019				      1771				       120 days			       Rs.32400

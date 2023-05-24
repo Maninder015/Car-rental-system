@@ -1,0 +1,2 @@
+Car Company				Car Model			  Year					 Car Number				 Number of days			   Rental fee
+C				         A				      2016				      0001				         7 days			       Rs.7560

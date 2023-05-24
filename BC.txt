@@ -1,0 +1,7 @@
+Specifications:
+
+fuel type: Petrol
+Engine : 998 cc
+max power : 118.36bhp@6000rpm
+seating capcity : 5
+milage : 12.6 kmpl

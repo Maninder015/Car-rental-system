@@ -1,0 +1,2 @@
+Car Company				Car Model			  Year					 Car Number				 Number of days			   Rental fee
+C				         B				      2016				      5672				        45 days			       Rs.56700
